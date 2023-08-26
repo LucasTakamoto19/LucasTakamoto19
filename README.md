@@ -2,6 +2,7 @@
 
 - 🌱 Cursando Java Full Stack e Cloud na SoulCode 
 - 📫 lucas.takamoto@hotmail.com
+- Cursando Sistemas de Informação
 
 - <div>
   <a href="https://github.com/LucasTakamoto19">
