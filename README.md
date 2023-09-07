@@ -1,8 +1,8 @@
 ### Olá! Eu sou Lucas Takamoto 👋
 
 - 🌱 Cursando Java Full Stack e Cloud na SoulCode 
+- 🌱 Cursando Sistemas de Informação
 - 📫 lucas.takamoto@hotmail.com
-- Cursando Sistemas de Informação
 
 - <div>
   <a href="https://github.com/LucasTakamoto19">
